@@ -13,6 +13,7 @@ One of the first things you likely learned in JavaScript was how to write
 functions. In this lesson, you'll get practice writing methods in Ruby to see
 the difference between Ruby methods and JavaScript functions.
 
+
 ## Ruby Method Syntax
 
 To start, let's try re-writing this JavaScript function in Ruby:
